@@ -3,7 +3,7 @@
 
 /***************************************************************************
 WINSDKLab3
-Using resources(dialogs,icons)
+Using resources(dialogs,cursors)
 switching between English/Chinese
 didn't upload the resources(icon,cursor,menu,bitmap,etc...)
 maybe some bugs unfixed
