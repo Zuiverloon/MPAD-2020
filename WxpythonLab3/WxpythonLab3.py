@@ -4,7 +4,7 @@ import wx
 
 #######################################################
 #Wxpython Lab3
-#Using resources(dialogs,icons,switching between English/CHinese)
+#Using resources(dialogs,cursors,switching between English/CHinese)
 #ECNU 10185102124 ZJY
 #didn't upload the resource (icon,cursor,menu,bitmap,etc...)
 #only code
